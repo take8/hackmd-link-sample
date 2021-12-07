@@ -8,10 +8,10 @@ sequenceDiagram
     participant Alice
     participant John
 
-    rect rgb(191, 223, 255)
+    rect rgb(95, 112, 255)
     note right of Alice: Alice calls John.
     Alice->>+John: Hello John, how are you?
-    rect rgb(200, 150, 255)
+    rect rgb(80, 50, 224)
     Alice->>+John: John, can you hear me?
     John-->>-Alice: Hi Alice, I can hear you!
     end
