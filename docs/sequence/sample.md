@@ -19,4 +19,6 @@ sequenceDiagram
     end
     Alice ->>+ John: Did you want to go to the game tonight?
     John -->>- Alice: Yeah! See you there.
+    Alice ->>+ John: Sorry, I had a cold.
+    John -->>- Alice: OK! I hope you get well.
 ```
